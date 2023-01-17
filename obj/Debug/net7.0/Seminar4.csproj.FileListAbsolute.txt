@@ -1,0 +1,15 @@
+/Users/ivanhudan/Documents/Seminar4/bin/Debug/net7.0/Seminar4
+/Users/ivanhudan/Documents/Seminar4/bin/Debug/net7.0/Seminar4.deps.json
+/Users/ivanhudan/Documents/Seminar4/bin/Debug/net7.0/Seminar4.runtimeconfig.json
+/Users/ivanhudan/Documents/Seminar4/bin/Debug/net7.0/Seminar4.dll
+/Users/ivanhudan/Documents/Seminar4/bin/Debug/net7.0/Seminar4.pdb
+/Users/ivanhudan/Documents/Seminar4/obj/Debug/net7.0/Seminar4.csproj.AssemblyReference.cache
+/Users/ivanhudan/Documents/Seminar4/obj/Debug/net7.0/Seminar4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanhudan/Documents/Seminar4/obj/Debug/net7.0/Seminar4.AssemblyInfoInputs.cache
+/Users/ivanhudan/Documents/Seminar4/obj/Debug/net7.0/Seminar4.AssemblyInfo.cs
+/Users/ivanhudan/Documents/Seminar4/obj/Debug/net7.0/Seminar4.csproj.CoreCompileInputs.cache
+/Users/ivanhudan/Documents/Seminar4/obj/Debug/net7.0/Seminar4.dll
+/Users/ivanhudan/Documents/Seminar4/obj/Debug/net7.0/refint/Seminar4.dll
+/Users/ivanhudan/Documents/Seminar4/obj/Debug/net7.0/Seminar4.pdb
+/Users/ivanhudan/Documents/Seminar4/obj/Debug/net7.0/Seminar4.genruntimeconfig.cache
+/Users/ivanhudan/Documents/Seminar4/obj/Debug/net7.0/ref/Seminar4.dll
